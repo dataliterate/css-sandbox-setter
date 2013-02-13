@@ -1,6 +1,6 @@
-# Microlevel CSS Boilerplate
+# CSS Sandbox Builder
 
-helps to setup a html5/css web project, where you can style and test your css.
+helps to setup a simple web project where you can experiment with CSS
 
 ## Usage
 - Download this Repository
