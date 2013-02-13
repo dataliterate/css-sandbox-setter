@@ -1,6 +1,13 @@
-# CSS Sandbox Builder
+# CSS Sandbox Setter
 
-helps to setup a simple web project where you can experiment with CSS
+CSS Sandbox Setter setups a CSS Sandbox (OS X only).
+Use CSS Sandboxes to get the details right. Tweak your dropshadows, go
+responsive, refine web typography and test your design on different devices.
+
+A CSS Sandbox is a
+- place to experiment with CSS
+- simple web project with a clear filestucture
+- tiny server to utilize livereload
 
 ## Usage
 - Download this Repository
